@@ -90,3 +90,9 @@ This project performs an in-depth exploratory data analysis (EDA) on a fictional
 
 ---
 
+
+## 🔗 Connect with Me
+💼 **LinkedIn**: [Shally Ujjwal](https://www.linkedin.com/in/shally-ujjwal-83056b219/)  
+📧 **Email**: shellyujjwal1701@gmail.com  
+📂 **GitHub**: [Shally Ujjwal](https://github.com/ShallyUjjwal)  
+
